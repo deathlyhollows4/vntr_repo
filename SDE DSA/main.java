@@ -4,10 +4,13 @@ public static void main(String[] args){
 
     Scanner sc = new Scanner(System.in);
     
-    int n = sc.nextInt();
-
-    for(int i = 0; i<n; i+=2){
-        System.out.println(i);
+    int row = sc.nextInt();
+    int col = sc.nextInt();
+    for (int i = 1; i <= row; i++) {
+        for(int j = row-i; j>=0; j--){
+            System.out.print(j+1);
+        }
+        System.out.println();
     }
 
 }
