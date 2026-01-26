@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "array_max_element",
+            "request": "launch",
+            "mainClass": "array_max_element",
+            "projectName": "vntr_repo_5f46cf39"
+        },
+        {
+            "type": "java",
+            "name": "array_sum_element",
+            "request": "launch",
+            "mainClass": "array_sum_element",
+            "projectName": "vntr_repo_5f46cf39"
+        },
+        {
+            "type": "java",
+            "name": "array_print_negative",
+            "request": "launch",
+            "mainClass": "array_print_negative",
+            "projectName": "vntr_repo_5f46cf39"
+        },
+        {
+            "type": "java",
+            "name": "array1",
+            "request": "launch",
+            "mainClass": "array1",
+            "projectName": "vntr_repo_5f46cf39"
+        },
+        {
+            "type": "java",
             "name": "main",
             "request": "launch",
             "mainClass": "main",
