@@ -25,8 +25,6 @@ public class array_deep_copyOf {
             System.out.println(arr2[j]+" ");
         }
 
-
-
     }
     
 }
