@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "array_revers_arr",
+            "request": "launch",
+            "mainClass": "array_revers_arr",
+            "projectName": "vntr_repo_5f46cf39"
+        },
+        {
+            "type": "java",
+            "name": "array_two_sum",
+            "request": "launch",
+            "mainClass": "array_two_sum",
+            "projectName": "vntr_repo_5f46cf39"
+        },
+        {
+            "type": "java",
+            "name": "array_deep_copyOf",
+            "request": "launch",
+            "mainClass": "array_deep_copyOf",
+            "projectName": "vntr_repo_5f46cf39"
+        },
+        {
+            "type": "java",
             "name": "array_max_element",
             "request": "launch",
             "mainClass": "array_max_element",

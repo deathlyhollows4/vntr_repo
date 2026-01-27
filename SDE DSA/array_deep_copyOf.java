@@ -18,13 +18,17 @@ public class array_deep_copyOf {
             }
         }
         System.out.println(max);
+        System.out.println();
 
         int[] arr2 = Arrays.copyOf(arr, arr.length);
         arr2[2] = 100;
         for (int j = 0; j < arr2.length; j++) {
             System.out.println(arr2[j]+" ");
         }
-
+        System.out.println();
+        for (int j = 0; j < arr.length; j++) {
+            System.out.println(arr[j]+" ");
+        }
     }
     
 }
